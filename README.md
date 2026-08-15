@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # Lottie Music Animation Collection
 
 A creative collection of **Lottie animations combined with music**, exploring how motion graphics and sound can work together to create engaging visual experiences.
